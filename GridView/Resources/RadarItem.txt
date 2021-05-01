@@ -1,0 +1,6 @@
+'0','rdaaa01','Satellite_Radar(1)'
+'1','rdaaa02','High-Speed_Satellite_Radar(2)'
+'2','rdaaa03','Ultra_Satellite_Radar(3)'
+'3','rdpvp01','Satellite_Radar(1)'
+'4','rdpvp02','High-Speed_Satellite_Radar(2)'
+'5','rdpvp03','Ultra_Satellite_Radar(3)'

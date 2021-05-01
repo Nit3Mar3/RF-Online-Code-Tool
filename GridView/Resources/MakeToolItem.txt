@@ -1,0 +1,8 @@
+'0','immmm01','Weapon/Shield_Tool_Kit'
+'1','immmm02','Armor_Tool_Kit'
+'2','immmm03','Bullet_Tool_Kit'
+'3','immmm04','Upgrader'
+'4','imleo01','Leon`s_Blueprint'
+'5','imbal01','World_Cup_Event_Ball(Bellato)'
+'6','imbal02','World_Cup_Event_Ball(Cora)'
+'7','imbal03','World_Cup_Event_Ball(Acc)'

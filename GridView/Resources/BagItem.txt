@@ -1,0 +1,6 @@
+'0','iebbs00','Training_Bag(Bellato)'
+'1','ieccs00','Training_Bag(Cora)'
+'2','ieaas00','Training_Bag(Accretia)'
+'3','iebbb00','Bag(Bellato)'
+'4','ieccc00','Bag(Cora)'
+'5','ieaaa00','Bag(Accretia)'

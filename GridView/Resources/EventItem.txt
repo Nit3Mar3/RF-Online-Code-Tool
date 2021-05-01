@@ -1,0 +1,4 @@
+'0','evddd01','Broken_Tombstone'
+'1','evddd02','Key_of_Darkness'
+'2','evddd03','Crystal_of_fire'
+'3','evddd04','Broken_Crystal'

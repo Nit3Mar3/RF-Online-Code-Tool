@@ -1,0 +1,8 @@
+'0','ijccc01','Paimon'
+'1','ijccc02','Hecate'
+'2','ijccc03','Inanna'
+'3','ijccc04','Isis'
+'4','ijccc05','Sealed-Paimon'
+'5','ijccc06','Sealed-Hecate'
+'6','ijccc07','Sealed-Inanna'
+'7','ijccc08','Sealed-Isis'
